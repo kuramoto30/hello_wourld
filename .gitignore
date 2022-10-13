@@ -17,6 +17,8 @@
 /tmp/pids/*
 !/tmp/pids/
 !/tmp/pids/.keep
+.DS_Store
+/vendor/bundle
 
 # Ignore uploaded files in development.
 /storage/*
